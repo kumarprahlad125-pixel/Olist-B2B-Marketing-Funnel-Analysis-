@@ -23,10 +23,13 @@ Which lead acquisition channels resulted in the highest number of closed deals?
 
 ## Dataset
 
+Source-KAGGLE 
 
 Two tables: marketing_qualified_leads (8,000 records) and closed_deals (842 records), linked by a shared mql_id
+
 Time period: 2017-2018
-Overall conversion rate from lead to closed deal: about 10.5%
+
+Overall conversion rate from lead to closed deal: about 10.5% 
 
 
 ## Tools Used
