@@ -76,16 +76,20 @@ Channels such as display, referral, and other minor sources generate little to n
 
 ## Key Business Insight
 
-Organic search is the strongest channel in the funnel by a clear margin. It generates the most leads (2,296 of 8,000, about 29% of the total), converts the highest share of them into closed deals (271 deals, close to a 12% conversion rate), and produces the most revenue by far — around $51.4 million in declared monthly revenue, roughly 84% of all revenue tied to a known channel. The average deal from organic search is worth about R$189,764, compared to about R$47,021 from paid search. This shows that organic search does not just bring in more leads — it brings in higher-quality leads that are more likely to become valuable customers.
+Organic search is the strongest channel in the funnel by a clear margin. It generates the most leads (2,296 of 8,000, about 29% of the total), converts the highest share of them into closed deals (271 deals, close to a 12% conversion rate), and produces the most revenue by far — around $51.4 million in declared monthly revenue, roughly 84% of all revenue tied to a known channel. The average deal from organic search is worth about $189,764, compared to about $47,021 from paid search. This shows that organic search does not just bring in more leads — it brings in higher-quality leads that are more likely to become valuable customers.
 
 
 ## Business Recommendations
 
 
-Increase investment in organic search (SEO and content), as it is the strongest-performing channel by lead quality and revenue.
+Increase investment in organic search  as it is the strongest-performing channel by lead quality and revenue.
+
 Continue supporting paid search, but review spend on social, email, and display channels, which show weak conversion into revenue.
+
 Prioritize sales attention on high-value segments such as construction tools/house & garden and phone & mobile, since each deal in these segments carries significant value.
+
 Investigate why resellers close more deals while manufacturers generate substantially more revenue, and consider a different approach to onboarding or pricing for manufacturer-type sellers.
+
 Track conversion rate by channel on an ongoing basis, not just lead volume, since a high number of leads does not always translate into revenue.
 
 
