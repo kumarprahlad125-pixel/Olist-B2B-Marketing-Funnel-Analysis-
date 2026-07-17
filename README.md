@@ -99,9 +99,7 @@ Track conversion rate by channel on an ongoing basis, not just lead volume, sinc
 
 SQL (joins, subqueries,window functions)
 
-MySQL Workbench
-
-Power BI
+Power BI (DAX,DATA MODELLING,POWER QUERY)
 
 Funnel and conversion analysis
 
