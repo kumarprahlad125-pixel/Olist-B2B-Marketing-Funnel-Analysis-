@@ -57,7 +57,7 @@ Summarized the results into a short set of findings and recommendations.
 
 ## Dashboard
 
-
+<img width="1331" height="745" alt="Image" src="https://github.com/user-attachments/assets/849b00b1-21b3-4a40-8d13-2331cb29be75" />
 
 ## Key Findings
 
