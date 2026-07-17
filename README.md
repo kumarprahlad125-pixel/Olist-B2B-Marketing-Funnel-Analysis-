@@ -1,7 +1,5 @@
 # Olist-B2B Marketing Funnel Analysis
 
-This project examines Olist's marketing funnel — how leads come in, and which of them convert into paying sellers and analyzing different category of leads .
-
 ## Overview
 
 This project studies Olist's marketing funnel — how leads are generated and which of those leads turn into actual paying customers (sellers) on the platform.
