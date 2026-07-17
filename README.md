@@ -2,13 +2,13 @@
 
 This project examines Olist's marketing funnel — how leads come in, and which of them convert into paying sellers and analyzing different category of leads .
 
-# Overview
+## Overview
 
 This project studies Olist's marketing funnel — how leads are generated and which of those leads turn into actual paying customers (sellers) on the platform.
 
 The analysis covers 8,000 marketing qualified leads and 842 closed deals. SQL was used to explore the data, and Power BI was used to build a dashboard summarizing the results.
 
-# Business Problem
+## Business Problem
 
 Olist's marketing and sales teams want clear answers to a few key questions:
 
