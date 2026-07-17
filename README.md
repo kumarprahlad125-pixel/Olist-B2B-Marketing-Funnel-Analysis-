@@ -93,11 +93,17 @@ Track conversion rate by channel on an ongoing basis, not just lead volume, sinc
 
 
 SQL (joins, subqueries,window functions)
+
 MySQL Workbench
+
 Power BI
+
 Funnel and conversion analysis
+
 Revenue analysis
+
 Business segmentation
+
 Dashboard development
 
 
@@ -105,11 +111,17 @@ Dashboard development
 
 
 Marketing qualified leads dataset (.csv)
+
 Closed deals dataset (.csv)
+
 SQL analysis script (.sql) — business queries
+
 SQL database dump (.sql) — full schema and data
+
 Power BI dashboard (.pbix)
+
 Dashboard screenshot(s)
+
 README.md
 
 
